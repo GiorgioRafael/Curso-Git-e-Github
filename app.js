@@ -56,6 +56,7 @@ function limparCampo() {
     chute = document.querySelector('input');
     chute.value = '';
 }
+//alteracao de teste para o gitignore
 
 function reiniciarJogo() {
     numeroSecreto = gerarNumeroAleatorio();
